@@ -1,0 +1,2 @@
+PyQt5
+minecraft-launcher-lib
